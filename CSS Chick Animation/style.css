@@ -8,6 +8,7 @@
 body {
   background-color: #49befe;
 }
+
 .container {
   height: 550px;
   width: 100vw;
@@ -38,6 +39,7 @@ body {
   top: -2px;
   animation: body-walk 0.8s infinite;
 }
+
 @keyframes body-walk {
   50% {
     top: 7px;
